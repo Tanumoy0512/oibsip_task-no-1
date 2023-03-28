@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(16, 87, 150);
+    display: flex;
+    margin: 1px;
+    
+
+}
+.item1{
+   
+    display: flex;
+    margin: 0px 0px 0px 113vh;
+    padding: 20px;
+}
+ul{
+    display: flex;
+    position: relative;
+    padding: 3px;
+}
+li{
+    display: flex;
+    margin:0px 0px 0px 30px;
+    padding: 0px 5px 0px 24px;
+    font-size: 3vh;
+
+}
+nav ul li:hover{
+    color: white;
+    cursor: pointer;
+}
+.box1{
+   margin: 0px 0px 0px 0px;
+}
+.item{
+    padding: 16px 0px 0px 23px;
+    font-size:3vh;
+}
+.item:hover{
+    color: white;
+    cursor: pointer;
+}
+.item2{
+    display: flex;
+    padding: 71px;
+    font-size: 28px;
+}
+.box{
+    display: flex;
+    padding: 5vh 0px 0px 35vh
+    
+}
+.box1{
+    display: flex;
+    padding: 0px 10vh 0px 0px;
+}
+.box2{
+    padding: 30px 50vh 0px 65px;
+    font-size: 22px;
+}
+.item3{
+    display: flex;
+    background-color: #eff8f9;
+}
+h1{
+    color: rgb(171, 71, 0);
+}
+input[type =button]{
+    background-color:  rgb(236, 108, 17) ;
+    width: 19vh;
+    height: 4vh;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+}
+.button{
+    background-color: rgb(199, 52, 12);
+
+}
+.container{
+    padding: 8px 8px 8px 8px;
+    margin: 36px;
+    border: 1px solid;
+    border-color: rgb(141, 187, 213);
+    box-shadow: 5px 10px 18px black;
+}
+body{
+    background-color: rgb(141, 187, 213);
+}
+button{
+    width: 10px;
+}
